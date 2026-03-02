@@ -7,4 +7,4 @@ Hi I'm Ivan, full name Lo Ngai Chak. Born March 14, 2000 in Hong Kong. I graduat
 - Hosting: Vercel, Render 
 - General-purpose Language: Python</h3>
 
-<a href="https://ivan-lo-dev.vercel.app/">My Portfolio Website: </a>
+My Portfolio Website, Click <a href="https://ivan-lo-dev.vercel.app/"> HERE</a>
