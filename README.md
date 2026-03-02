@@ -3,7 +3,7 @@ Hi I'm Ivan, full name Lo Ngai Chak. Born March 14, 2000 in Hong Kong. I graduat
 I have been learning Japanese for 3 years and passed JLPT N2 in 2025. I’m currently working hard to secure a developer position in Japan.
 
 # Tech Stack
-
+- Frontend: React.js Next.js 
 - Backend: Express.js Node.js 
 - Database: MongoDB PostgreSQL
 - Hosting: Vercel, Render 
