@@ -2,9 +2,9 @@ Hi I'm Ivan, full name Lo Ngai Chak. Born March 14, 2000 in Hong Kong. I graduat
 
 # Tech Stack
 
-Backend: Express.js Node.js 
-Database: MongoDB PostgreSQL
-Hosting: Vercel, Render 
-General-purpose Language: Python</h3>
+- Backend: Express.js Node.js 
+- Database: MongoDB PostgreSQL
+- Hosting: Vercel, Render 
+- General-purpose Language: Python</h3>
 
 <a href="https://ivan-lo-dev.vercel.app/">My Portfolio Website: </a>
