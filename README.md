@@ -1,12 +1,13 @@
-Hi I'm Ivan, full name Lo Ngai Chak. Born March 14, 2000 in Hong Kong. I graduated from Bachelor of Computer Engineering at the University of Hong Kong (HKU) in 2024. After running an e-commerce drop-shipping business for around one year, I devoted myself to full-stack web development in 2025. 
+Graduating with a degree in Computer Engineering from the University of Hong Kong in 2024, I have worked as a freelance tutor for over 2 years. My solid foundation in software development, combined with a revitalized enthusiasm for the tech sector, drives my desire to return to a developer role. I am excited to apply my technical skills and teamwork abilities to create innovative solutions within a collaborative development team.
 
-I have been learning Japanese for 3 years and passed JLPT N2 in 2025. I’m currently working hard to secure a developer position in Japan.
+
 
 # Tech Stack
-- Frontend: React.js Next.js 
-- Backend: Express.js Node.js 
-- Database: MongoDB PostgreSQL
-- Hosting: Vercel, Render 
-- General-purpose Language: Python</h3>
+- Languages:  HTML, CSS, JavaScript, Python, C++
+- Frontend Frameworks: Next.js, React.js 
+- Backend Frameworks: Node.js, Express.js
+- Databases: MongoDB, PostgreSQL, MySQL
+- CI/CD: Git, Github, Docker
+- Others: AWS  (Lambda, EC2, S3), Pytorch, Github Copilot
 
 My Portfolio Website, Click <a href="https://ivan-lo-dev.vercel.app/" target="_blank">HERE</a>
